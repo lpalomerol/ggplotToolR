@@ -1,11 +1,14 @@
 Package: ggplotToolR
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Title: Some basic tools related with ggplot designs
+Version: 0.0.1
+Author: Luis Palomero
+Maintainer: Luis Palomero <luis.palomero.lopez.armentia@gmail.com>
+Description: This package contains some useful methods related with ggplot theming.
+    It has been conceived in order to avoid build repeately the same designs.
+License: LGPL-3
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.1.2
+Imports: 
+    ggplot2
